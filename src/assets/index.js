@@ -33,6 +33,7 @@ import tripguide from "./tripguide.png";
 import simplify from "./Simplify.png";
 import ironempire from "./iron-empire.png";
 import snakegame from "./snakegame.png";
+import weather from "./weather.png";
 
 export {
   logo,
@@ -65,5 +66,6 @@ export {
   tripguide,
   simplify,
   ironempire,
-  snakegame
+  snakegame,
+  weather
 };

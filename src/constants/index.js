@@ -17,7 +17,8 @@ import {
   threejs,
   simplify, 
   ironempire,
-  snakegame
+  snakegame,
+  weather
 } from "../assets";
 
 export const navLinks = [
@@ -134,7 +135,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: weather,
     source_code_link: "https://santanulayek.github.io/Weather-App/",
   },
   {
