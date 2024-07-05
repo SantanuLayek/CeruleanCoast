@@ -34,7 +34,7 @@ import simplify from "./Simplify.png";
 import ironempire from "./iron-empire.png";
 import snakegame from "./snakegame.png";
 import weather from "./weather.png";
-
+import lenksen from "./lenksen.png"
 export {
   logo,
   backend,
@@ -67,5 +67,6 @@ export {
   simplify,
   ironempire,
   snakegame,
-  weather
+  weather,
+  lenksen
 };

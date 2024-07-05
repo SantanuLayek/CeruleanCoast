@@ -18,7 +18,8 @@ import {
   simplify, 
   ironempire,
   snakegame,
-  weather
+  weather,
+  lenksen
 } from "../assets";
 
 export const navLinks = [
@@ -179,6 +180,27 @@ const projects = [
     ],
     image: ironempire,
     source_code_link: "https://iron-empire.netlify.app/",
+  },
+  {
+    name: "LenkSen",
+    description:
+      "A Modern Landing Page created as a part of a University Project. This UI Design Project is Intended to Showcase a product or an App. Implements various web technologies like React Parallax.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: lenksen,
+    source_code_link: "https://lenksen.netlify.app/",
   },
 ];
 
