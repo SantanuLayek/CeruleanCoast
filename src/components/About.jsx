@@ -35,7 +35,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a pre-final year Engineering Student, pursuing my degree in the
+        I am a final year Engineering Student, pursuing my degree in the
         field of Computer Science. I am a software developer with Experience in
         Python, C++/C, Java and JavaScript and expertise in the React.Js
         Framework. I am a quick learner and can very quickly adapt to any and
